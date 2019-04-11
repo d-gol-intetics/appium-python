@@ -17,11 +17,11 @@ https://www.swtestacademy.com/appium-tutorial/
 
 5. Install Twitter app on emulator or phone - where you want to run tests
 
-6. Navigate to webdriver/driver.py in framework. Leave the desired_caps variable initialisation you want depending on where you want to run tests - emulator/phone
+6. Navigate to webdriver/driver.py in framework. Leave the desired_caps variable initialisation you want uncommented depending on where you want to run tests - emulator/phone
 
 7. In Command prompt cd to framework root directory
 
-8. If you are running tests on emulator - make sure emulator is running
+8. If you are running tests on emulator - make sure emulator is running. If you are running tests on phone - make required steps from guide in step 4 
 
 9. Type 'behave'
 
